@@ -1,2 +1,16 @@
 # Minimum-Wage-Education-Analysis
-Used U.S. Census data (14M+ rows reduced to 5%) to analyze impact of minimum wage on college outcomes. Found $1 wage increase linked to 3.5% drop in four-year college enrollment.
+**Goal**: Analyze how minimum wage affects college enrollment rates using U.S. Census data (2021).
+
+## Tools & Technologies
+- STATA, Python, panel data, fixed effects regression
+
+## Key Steps
+- Cleaned and sampled 14M+ records down to 5%
+- Built models to isolate effect of wage at age 17 on college entry
+
+## Findings
+- A $1 increase in minimum wage → 0.6% drop in any college, 3.5% drop in 4-year college enrollment.
+
+## Files (Check)
+- `analysis.do` or `.ipynb`: regression code
+- `data/`: documentation of variables and sources
