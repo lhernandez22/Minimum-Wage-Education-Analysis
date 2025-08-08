@@ -12,5 +12,5 @@
 - A $1 increase in minimum wage → 0.6% drop in any college, 3.5% drop in 4-year college enrollment.
 
 ## Files (Check)
-- `analysis.do` or `.ipynb`: regression code
-- `data/`: documentation of variables and sources
+- Code: "final-project-2"
+- Data: "minwage" & "census2021" (file was too big to insert; obtained from the census.gov)
